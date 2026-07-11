@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.git/
+.env
+app.db
+uploads/
+.pytest_cache/
+.mypy_cache/
+test-upload.txt
+downloaded.txt
+register.json
